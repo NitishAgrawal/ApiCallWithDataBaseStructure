@@ -1,8 +1,7 @@
-package com.app.baselibrary;
+package com.app.baselibrary.base;
 
 import android.app.Application;
 import android.content.Context;
-import android.content.SharedPreferences;
 import android.widget.Toast;
 
 import com.app.baselibrary.dbhelperBase.DatabaseHandler;

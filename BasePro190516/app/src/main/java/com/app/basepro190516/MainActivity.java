@@ -1,9 +1,8 @@
 package com.app.basepro190516;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.app.baselibrary.BaseActivity;
+import com.app.baselibrary.base.BaseActivity;
 
 public class MainActivity extends BaseActivity {
 

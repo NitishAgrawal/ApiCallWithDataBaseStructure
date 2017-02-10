@@ -1,4 +1,4 @@
-package com.app.baselibrary;
+package com.app.baselibrary.base;
 
 import com.app.baselibrary.apicalls.ApiRequest;
 

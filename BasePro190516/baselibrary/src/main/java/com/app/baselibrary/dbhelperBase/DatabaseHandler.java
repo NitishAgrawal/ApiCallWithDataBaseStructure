@@ -5,8 +5,8 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
-import com.app.baselibrary.BaseApp;
-import com.app.baselibrary.BaseStru;
+import com.app.baselibrary.base.BaseApp;
+import com.app.baselibrary.base.BaseStru;
 
 import java.util.HashMap;
 import java.util.Map;

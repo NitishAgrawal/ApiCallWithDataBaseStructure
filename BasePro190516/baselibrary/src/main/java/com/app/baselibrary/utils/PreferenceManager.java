@@ -2,7 +2,7 @@ package com.app.baselibrary.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import com.app.baselibrary.BaseStru;
+import com.app.baselibrary.base.BaseStru;
 import static android.content.Context.MODE_PRIVATE;
 
 public class PreferenceManager {

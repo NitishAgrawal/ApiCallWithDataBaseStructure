@@ -9,7 +9,7 @@ import android.net.Network;
 import android.net.NetworkInfo;
 import android.util.Log;
 
-import com.app.baselibrary.BaseStru;
+import com.app.baselibrary.base.BaseStru;
 
 public class CheckNetwork {
 

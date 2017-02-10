@@ -2,8 +2,8 @@ package com.app.baselibrary.utils;
 
 import android.util.Log;
 
-import com.app.baselibrary.BaseApp;
-import com.app.baselibrary.BaseStru;
+import com.app.baselibrary.base.BaseApp;
+import com.app.baselibrary.base.BaseStru;
 
 public class Logger {
 

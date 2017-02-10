@@ -2,15 +2,13 @@ package com.app.baselibrary.apicalls;
 
 import android.util.Log;
 
-import com.app.baselibrary.BaseStru;
+import com.app.baselibrary.base.BaseStru;
 
 import org.json.JSONObject;
 import org.json.JSONTokener;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;

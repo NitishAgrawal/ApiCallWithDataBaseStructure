@@ -9,7 +9,7 @@ import android.os.AsyncTask;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.app.baselibrary.BaseStru;
+import com.app.baselibrary.base.BaseStru;
 
 import org.json.JSONException;
 import org.json.JSONObject;
